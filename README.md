@@ -20,6 +20,6 @@
 
 ![image](https://github.com/user-attachments/assets/ca098112-aa45-45a1-a362-a1c8fe0049b5)
 
-Также предусмотрен вывод массива данных в текстовый файл output.html.
+- Также предусмотрен вывод массива данных в текстовый файл output.html.
 
 ![image](https://github.com/user-attachments/assets/8ea9aa2e-53f3-493f-aa52-44ec0254bad0)
